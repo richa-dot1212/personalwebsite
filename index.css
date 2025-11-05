@@ -1,0 +1,39 @@
+body{
+    background: #760000;
+    margin:0;
+}
+
+#main-div{
+    background:#f3d6a4;
+    width: 70%;
+    height: 600px;
+    margin-left: 15%
+
+}
+
+#name{
+    color:#191311;
+    text-align: center;
+    /* border: solid #760000 5px; */
+    /* margin-top: 10px; */
+    padding: 25px;
+    font: 'serif';
+    font-size: 48;
+    font-weight: 800;
+
+}
+
+hr{
+    width: 90%;
+    margin-left: 5%;
+}
+
+p{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+img{
+    width: 300px;
+    margin-left: 22%;
+    
+}
